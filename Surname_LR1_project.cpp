@@ -17,6 +17,7 @@ void ProductOfNumbers()
 	//Найти произведение второй и третьей его цифр
 
 	//Здесь должен быть Ваш код
+     //change2
 	cout << "Результат Задания 2: " << endl;
 }
 void MaximumOfNumber()
