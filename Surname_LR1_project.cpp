@@ -8,6 +8,7 @@ void VolumeOfParallelepiped()
 	//Исходные данные вводятся с клавиатуры
 
 	//Здесь должен быть Ваш код
+    //change1
 	cout << "Результат Задания 1: "<<endl;
 }
 void ProductOfNumbers()
