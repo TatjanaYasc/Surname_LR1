@@ -26,6 +26,7 @@ void MaximumOfNumber()
 	//Найти наибольшее 	среди них
 
 	//Здесь должен быть Ваш код
+     //change3
 	cout << "Результат Задания 3: " << endl;
 }
 void ExistenceOfTriangle()
